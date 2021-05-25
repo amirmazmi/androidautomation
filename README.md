@@ -38,13 +38,30 @@ export the path to currently used adb or use the same path to adb when you conne
 run scrpy  
 `scrcpy`
 
-
 <br>  
 
 ---
   
 How to get device ip address  
  `adb shell ip addr show wlan0`  
+
+<br>  
+
+---  
+#### Keys
+
+`MOD + h` &emsp;&emsp;&emsp;&emsp;&emsp; Home  
+`MOD + s` &emsp;&emsp;&emsp;&emsp;&emsp; App switcher  
+`MOD + c` &emsp;&emsp;&emsp;&emsp;&emsp; copy  
+`MOD + v` &emsp;&emsp;&emsp;&emsp;&emsp; paste: pc -> device  
+
+`MOD + shift + h` &emsp; paste: device -> pc  
+`MOD + r` &emsp;&emsp;&emsp;&emsp;&emsp; rotate screen  
+`MOD + o` &emsp;&emsp;&emsp;&emsp;&emsp; Device screen off (mirroring does not stop)  
+`MOD + shift + o` &emsp; Device screen on  
+  
+`MOD + n` &emsp;&emsp;&emsp;&emsp;&emsp; Open notification panel  
+`MOD + shift + n` &emsp; Close notification panel  
 
 
 
