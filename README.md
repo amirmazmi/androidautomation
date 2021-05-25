@@ -19,7 +19,9 @@ Env var can be set in .bashrc
 <br>  
 
 ---  
-#start clean  
+## Connecting to device  
+
+start clean  
 `adb kill-server`
 
 plug your device and check if the device is connected  
@@ -35,6 +37,14 @@ export the path to currently used adb or use the same path to adb when you conne
 
 run scrpy  
 `scrcpy`
+
+
+<br>  
+
+---
+  
+How to get device ip address  
+ `adb shell ip addr show wlan0`  
 
 
 
