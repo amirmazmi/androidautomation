@@ -19,7 +19,7 @@ Env var can be set in .bashrc
 <br>  
 
 ---  
-## Connecting to device  
+### Connecting to device  
 
 start clean  
 `adb kill-server`
@@ -48,7 +48,7 @@ How to get device ip address
 <br>  
 
 ---  
-#### Keys
+### Keys
 
 `MOD + h` &emsp;&emsp;&emsp;&emsp;&emsp; Home  
 `MOD + s` &emsp;&emsp;&emsp;&emsp;&emsp; App switcher  
@@ -66,4 +66,4 @@ How to get device ip address
 
 
 
-<br><br>
+<br><br><br>
