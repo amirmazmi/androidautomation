@@ -13,7 +13,7 @@ next_getInput = time() + 1
 # input message
 msg = '''\n----------------------------
   Options
-    Enter to get current position
+    Enter to get current position - leave blank
     <time>            seconds - to continuously print position
     <position name>   store last cursor position
         q             quit
